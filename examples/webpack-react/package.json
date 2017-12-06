@@ -1,6 +1,6 @@
 {
   "private": true,
-  "version": "2.0.0-babel7",
+  "version": "2.0.1-0",
   "name": "lingui-example-webpack-react",
   "description": "Example usecase of all features using Webpack and React",
   "main": "index.js",
@@ -16,8 +16,8 @@
     "stats": "webpack -p --json"
   },
   "dependencies": {
-    "lingui-i18n": "^2.0.0-babel7",
-    "lingui-react": "^2.0.0-babel7",
+    "lingui-i18n": "^2.0.1-0",
+    "lingui-react": "^2.0.1-0",
     "react": "16.1.1",
     "react-dom": "16.1.1"
   },
@@ -27,9 +27,9 @@
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
-    "babel-preset-lingui-react": "^2.0.0-babel7",
+    "babel-preset-lingui-react": "^2.0.1-0",
     "babel-preset-react": "^6.24.1",
-    "lingui-loader": "^2.0.0-babel7",
+    "lingui-loader": "^2.0.1-0",
     "webpack": "^3.8.1",
     "webpack-dev-server": "^2.9.4"
   },

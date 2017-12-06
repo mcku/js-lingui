@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-lingui-transform-react",
-  "version": "2.0.0-babel7",
+  "version": "2.0.1-0",
   "description": "Transform React components to ICU message format",
   "main": "dist/index.js",
   "author": {
