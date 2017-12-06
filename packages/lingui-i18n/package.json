@@ -1,6 +1,6 @@
 {
   "name": "lingui-i18n",
-  "version": "2.0.1-0",
+  "version": "2.0.1",
   "description": "I18n tools for javascript",
   "main": "index.js",
   "module": "index.es.js",
@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0-0",
-    "lingui-formats": "^2.0.1-0",
+    "lingui-formats": "^2.0.1",
     "make-plural": "^4.1.1",
     "messageformat-parser": "^2.0.0"
   },
